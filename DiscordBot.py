@@ -14,7 +14,7 @@ intent.members = True
 intent.message_content = True
 
 # hidden token
-token = "MTAzMjE4NjQ5NTAwMTQzMjEyNA.GOqCrH.Tv5sZFWfliMecxqMhFIeW8hnq77Ycrfdx_GicU"
+token = "Hidden toke"
 
 # creating the client for the bot
 client = discord.Client(intents=intent)
