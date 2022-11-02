@@ -1,1 +1,1 @@
-Discord Bot that deltes forbbiden words and also plays music created using Discord.py by Vybavnag
+Discord Bot that deletes forbidden words and also plays music created using Discord.py by Vybavnag
